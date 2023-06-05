@@ -1,6 +1,6 @@
 import NavBar from "../componants/NavBar";
 
-export default function Products() {
+export default function Female() {
   return (
     <>
       <NavBar />
